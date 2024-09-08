@@ -11,3 +11,5 @@ LazyData: true
 RoxygenNote: 7.1.1
 Imports: 
     dplyr
+URL: https://github.com/Philip-Leftwich/myFirstPackage
+BugReports: https://github.com/Philip-Leftwich/myFirstPackage/issues
